@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Leroy" Database="">
+  <Project Name="opdr_1_1" Path="opdr_1_1/opdr_1_1.project" Active="No"/>
+  <Project Name="opdr_1_2" Path="opdr_1_2/opdr_1_2.project" Active="No"/>
+  <Project Name="opdr_1_3" Path="opdr_1_3/opdr_1_3.project" Active="No"/>
+  <Project Name="opdr_1_4" Path="opdr_1_4/opdr_1_4.project" Active="No"/>
+  <Project Name="opdr_1_5" Path="opdr_1_5/opdr_1_5.project" Active="No"/>
+  <Project Name="opdr_2_1" Path="opdr_2_1/opdr_2_1.project" Active="No"/>
+  <Project Name="opdr_2_2" Path="opdr_2_2/opdr_2_2.project" Active="No"/>
+  <Project Name="opdr_2_3" Path="opdr_2_3/opdr_2_3.project" Active="No"/>
+  <Project Name="opdr_2_4" Path="opdr_2_4/opdr_2_4.project" Active="No"/>
+  <Project Name="opdr_2_5" Path="opdr_2_5/opdr_2_5.project" Active="No"/>
+  <Project Name="opdr_3_1" Path="opdr_3_1/opdr_3_1.project" Active="No"/>
+  <Project Name="opdr_3_2" Path="opdr_3_2/opdr_3_2.project" Active="No"/>
+  <Project Name="opdr_3_3" Path="opdr_3_3/opdr_3_3.project" Active="No"/>
+  <Project Name="opdr_3_4" Path="opdr_3_4/opdr_3_4.project" Active="No"/>
+  <Project Name="opdr_3_5_a" Path="opdr_3_5/opdr_3_5.project" Active="No"/>
+  <Project Name="opdr_3_5_b" Path="opdr_3_5_b/opdr_3_5_b.project"/>
+  <Project Name="opdr_4_1" Path="opdr_4_1/opdr_4_1.project" Active="Yes"/>
+  <Project Name="opdr_4_2" Path="opdr_4_2/opdr_4_2.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="opdr_1_1" ConfigName="Debug"/>
+      <Project Name="opdr_1_2" ConfigName="Debug"/>
+      <Project Name="opdr_1_3" ConfigName="Debug"/>
+      <Project Name="opdr_1_4" ConfigName="Debug"/>
+      <Project Name="opdr_1_5" ConfigName="Debug"/>
+      <Project Name="opdr_2_1" ConfigName="Debug"/>
+      <Project Name="opdr_2_2" ConfigName="Debug"/>
+      <Project Name="opdr_2_3" ConfigName="Debug"/>
+      <Project Name="opdr_2_4" ConfigName="Debug"/>
+      <Project Name="opdr_2_5" ConfigName="Debug"/>
+      <Project Name="opdr_3_1" ConfigName="Debug"/>
+      <Project Name="opdr_3_2" ConfigName="Debug"/>
+      <Project Name="opdr_3_3" ConfigName="Debug"/>
+      <Project Name="opdr_3_4" ConfigName="Debug"/>
+      <Project Name="opdr_3_5_a" ConfigName="Debug"/>
+      <Project Name="opdr_3_5_b" ConfigName="Debug"/>
+      <Project Name="opdr_4_1" ConfigName="Debug"/>
+      <Project Name="opdr_4_2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="opdr_1_1" ConfigName="Release"/>
+      <Project Name="opdr_1_2" ConfigName="Release"/>
+      <Project Name="opdr_1_3" ConfigName="Release"/>
+      <Project Name="opdr_1_4" ConfigName="Release"/>
+      <Project Name="opdr_1_5" ConfigName="Release"/>
+      <Project Name="opdr_2_1" ConfigName="Release"/>
+      <Project Name="opdr_2_2" ConfigName="Release"/>
+      <Project Name="opdr_2_3" ConfigName="Release"/>
+      <Project Name="opdr_2_4" ConfigName="Release"/>
+      <Project Name="opdr_2_5" ConfigName="Release"/>
+      <Project Name="opdr_3_1" ConfigName="Release"/>
+      <Project Name="opdr_3_2" ConfigName="Release"/>
+      <Project Name="opdr_3_3" ConfigName="Release"/>
+      <Project Name="opdr_3_4" ConfigName="Release"/>
+      <Project Name="opdr_3_5_a" ConfigName="Release"/>
+      <Project Name="opdr_3_5_b" ConfigName="Release"/>
+      <Project Name="opdr_4_1" ConfigName="Release"/>
+      <Project Name="opdr_4_2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
