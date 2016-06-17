@@ -15,12 +15,13 @@
   <Project Name="opdr_3_3" Path="opdr_3_3/opdr_3_3.project" Active="No"/>
   <Project Name="opdr_3_4" Path="opdr_3_4/opdr_3_4.project" Active="No"/>
   <Project Name="opdr_3_5_a" Path="opdr_3_5/opdr_3_5.project" Active="No"/>
-  <Project Name="opdr_3_5_b" Path="opdr_3_5_b/opdr_3_5_b.project"/>
+  <Project Name="opdr_3_5_b" Path="opdr_3_5_b/opdr_3_5_b.project" Active="No"/>
   <Project Name="opdr_4_1" Path="opdr_4_1/opdr_4_1.project" Active="No"/>
   <Project Name="opdr_4_2" Path="opdr_4_2/opdr_4_2.project" Active="No"/>
   <Project Name="opdr_4_3" Path="opdr_4_3/opdr_4_3.project" Active="No"/>
   <Project Name="opdr_4_4" Path="opdr_4_4/opdr_4_4.project" Active="No"/>
-  <Project Name="opdr_4_5" Path="opdr_4_5/opdr_4_5.project" Active="Yes"/>
+  <Project Name="opdr_4_5" Path="opdr_4_5/opdr_4_5.project" Active="No"/>
+  <Project Name="opdr_5_1" Path="opdr_5_1/opdr_5_1.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -45,6 +46,7 @@
       <Project Name="opdr_4_3" ConfigName="Debug"/>
       <Project Name="opdr_4_4" ConfigName="Debug"/>
       <Project Name="opdr_4_5" ConfigName="Debug"/>
+      <Project Name="opdr_5_1" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -69,6 +71,7 @@
       <Project Name="opdr_4_3" ConfigName="Release"/>
       <Project Name="opdr_4_4" ConfigName="Release"/>
       <Project Name="opdr_4_5" ConfigName="Release"/>
+      <Project Name="opdr_5_1" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
